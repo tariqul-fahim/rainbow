@@ -1,0 +1,7 @@
+This is rainbow project
+
+red
+blue
+black
+yellow
+white
