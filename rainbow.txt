@@ -7,3 +7,6 @@ yellow
 white
 
 added some thing in new branch
+
+
+i am new user in github. please accept this pull request
